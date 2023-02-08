@@ -1,0 +1,142 @@
+# Created at 2023-02-08T18:10:52.904
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2023-02-08T18:10:54.630
+Unexpected IOException: 5,1,Ways of booking tickets for trip Packages #1,Ways of booking tickets for trip Packages #1,null,null,null
+
+
+# Created at 2023-02-08T18:10:55.398
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-08T18:10:55.408
+Unexpected IOException with stream: @Ways_of_booking_tickets_for_trip_Packages_
+
+
+# Created at 2023-02-08T18:10:55.408
+Unexpected IOException with stream: Scenario Outline: Ways of booking tickets for trip Packages                                        # src/test/java/features/BPM_SastaSafar_Web.feature:97
+
+
+# Created at 2023-02-08T18:10:55.671
+Unexpected IOException with stream: Open the browser
+
+
+# Created at 2023-02-08T18:10:55.883
+Unexpected IOException with stream: Feb 08, 2023 6:10:55 PM org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
+INFO: Using OpenTelemetry for tracing
+
+
+# Created at 2023-02-08T18:11:07.301
+Unexpected IOException: 5,1,Ways of booking tickets for trip Packages #1,User refer the "BPM_SastaSafar_Web.xlsx"(Ways of booking tickets for trip Packages #1),null,null,null
+
+
+# Created at 2023-02-08T18:11:07.412
+Unexpected IOException: 6,1,Ways of booking tickets for trip Packages #1,User refer the "BPM_SastaSafar_Web.xlsx"(Ways of booking tickets for trip Packages #1),null,null,null
+
+
+# Created at 2023-02-08T18:11:07.625
+Unexpected IOException with stream:   Given User refer the "BPM_SastaSafar_Web.xlsx"                                                   # testcases_stepdef.Steps.user_refer_the_something(java.lang.String)
+
+
+# Created at 2023-02-08T18:11:07.633
+Unexpected IOException: 5,1,Ways of booking tickets for trip Packages #1,Verify the "Home page" with "Home_Page_Title" from given sheet "TestData"(Ways of booking tickets for trip Packages #1),null,null,null
+
+
+# Created at 2023-02-08T18:11:13.831
+Unexpected IOException with stream: Val of the alt attribute=SastaSafar
+
+
+# Created at 2023-02-08T18:11:13.831
+Unexpected IOException with stream: SastaSafar
+
+
+# Created at 2023-02-08T18:11:14.852
+Unexpected IOException: 6,1,Ways of booking tickets for trip Packages #1,Verify the "Home page" with "Home_Page_Title" from given sheet "TestData"(Ways of booking tickets for trip Packages #1),null,null,null
+
+
+# Created at 2023-02-08T18:11:14.852
+Unexpected IOException with stream:   When Verify the "Home page" with "Home_Page_Title" from given sheet "TestData"                   # testcases_stepdef.Steps.verify_the_something_with_something(java.lang.String,java.lang.String,java.lang.String)
+
+
+# Created at 2023-02-08T18:11:14.852
+Unexpected IOException: 5,1,Ways of booking tickets for trip Packages #1,User click on the "PACKAGES tab"(Ways of booking tickets for trip Packages #1),null,null,null
+
+
+# Created at 2023-02-08T18:11:26.190
+Unexpected IOException: 6,1,Ways of booking tickets for trip Packages #1,User click on the "PACKAGES tab"(Ways of booking tickets for trip Packages #1),null,null,null
+
+
+# Created at 2023-02-08T18:11:26.225
+Unexpected IOException with stream:   When User click on the "PACKAGES tab"                                                            # testcases_stepdef.Steps.user_click_on_the_something(java.lang.String)
+
+
+# Created at 2023-02-08T18:11:26.225
+Unexpected IOException: 5,1,Ways of booking tickets for trip Packages #1,Verify the "packages home page" with "packages home page title" from given sheet "TestData"(Ways of booking tickets for trip Packages #1),null,null,null
+
+
+# Created at 2023-02-08T18:11:27.675
+Unexpected IOException with stream: top selling packages
+
+
+# Created at 2023-02-08T18:11:28.706
+Unexpected IOException: 6,1,Ways of booking tickets for trip Packages #1,Verify the "packages home page" with "packages home page title" from given sheet "TestData"(Ways of booking tickets for trip Packages #1),null,null,null
+
+
+# Created at 2023-02-08T18:11:28.709
+Unexpected IOException with stream:   Then Verify the "packages home page" with "packages home page title" from given sheet "TestData" # testcases_stepdef.Steps.verify_the_something_with_something(java.lang.String,java.lang.String,java.lang.String)
+
+
+# Created at 2023-02-08T18:11:38.943
+Unexpected IOException: 6,1,Ways of booking tickets for trip Packages #1,Ways of booking tickets for trip Packages #1,null,null,null
+
+
+# Created at 2023-02-08T18:11:38.943
+Unexpected IOException: 5,1,Ways of booking tickets for trip Packages #2,Ways of booking tickets for trip Packages #2,null,null,null
+
+
+# Created at 2023-02-08T18:11:38.943
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-08T18:11:38.959
+Unexpected IOException with stream: @Ways_of_booking_tickets_for_trip_Packages_
+
+
+# Created at 2023-02-08T18:11:38.959
+Unexpected IOException with stream: Scenario Outline: Ways of booking tickets for trip Packages                                        # src/test/java/features/BPM_SastaSafar_Web.feature:112
+
+
+# Created at 2023-02-08T18:11:38.959
+Unexpected IOException with stream: Open the browser
+
+
+# Created at 2023-02-08T18:11:46.690
+Unexpected IOException: 5,1,Ways of booking tickets for trip Packages #2,User refer the "BPM_SastaSafar_Web.xlsx"(Ways of booking tickets for trip Packages #2),null,null,null
+
+
+# Created at 2023-02-08T18:11:46.690
+Unexpected IOException: 6,1,Ways of booking tickets for trip Packages #2,User refer the "BPM_SastaSafar_Web.xlsx"(Ways of booking tickets for trip Packages #2),null,null,null
+
+
+# Created at 2023-02-08T18:11:46.690
+Unexpected IOException with stream:   Given User refer the "BPM_SastaSafar_Web.xlsx"                                                   # testcases_stepdef.Steps.user_refer_the_something(java.lang.String)
+
+
+# Created at 2023-02-08T18:11:46.690
+Unexpected IOException: 5,1,Ways of booking tickets for trip Packages #2,Verify the "Home page" with "Home_Page_Title" from given sheet "TestData"(Ways of booking tickets for trip Packages #2),null,null,null
+
+
+# Created at 2023-02-08T18:11:48.316
+Unexpected IOException with stream: Val of the alt attribute=SastaSafar
+
+
+# Created at 2023-02-08T18:11:48.316
+Unexpected IOException with stream: SastaSafar
+
+

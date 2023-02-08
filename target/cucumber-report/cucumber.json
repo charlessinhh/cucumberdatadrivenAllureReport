@@ -1,0 +1,280 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-02-08T12:41:16.227Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11027000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "testcases_stepdef.Hooks.setUp()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "testcases_stepdef.Steps.before(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 97,
+        "name": "Ways of booking tickets for trip Packages",
+        "description": "",
+        "id": "bpm-sastasafar-web;ways-of-booking-tickets-for-trip-packages;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 10224000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "testcases_stepdef.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 16000000,
+              "status": "passed"
+            },
+            "line": 89,
+            "name": "User refer the \"BPM_SastaSafar_Web.xlsx\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "BPM_SastaSafar_Web.xlsx",
+                  "offset": 16
+                }
+              ],
+              "location": "testcases_stepdef.Steps.user_refer_the_something(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4117000000,
+              "status": "passed"
+            },
+            "line": 90,
+            "name": "Verify the \"Home page\" with \"Home_Page_Title\" from given sheet \"TestData\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Home page",
+                  "offset": 12
+                },
+                {
+                  "val": "Home_Page_Title",
+                  "offset": 29
+                },
+                {
+                  "val": "TestData",
+                  "offset": 64
+                }
+              ],
+              "location": "testcases_stepdef.Steps.verify_the_something_with_something(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11042000000,
+              "status": "passed"
+            },
+            "line": 91,
+            "name": "User click on the \"PACKAGES tab\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "PACKAGES tab",
+                  "offset": 19
+                }
+              ],
+              "location": "testcases_stepdef.Steps.user_click_on_the_something(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2749000000,
+              "status": "passed"
+            },
+            "line": 92,
+            "name": "Verify the \"packages home page\" with \"packages home page title\" from given sheet \"TestData\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "packages home page",
+                  "offset": 12
+                },
+                {
+                  "val": "packages home page title",
+                  "offset": 38
+                },
+                {
+                  "val": "TestData",
+                  "offset": 82
+                }
+              ],
+              "location": "testcases_stepdef.Steps.verify_the_something_with_something(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ways_of_booking_tickets_for_trip_Packages_"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-08T12:41:55.946Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4290000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "testcases_stepdef.Hooks.setUp()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "testcases_stepdef.Steps.before(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 112,
+        "name": "Ways of booking tickets for trip Packages",
+        "description": "",
+        "id": "bpm-sastasafar-web;ways-of-booking-tickets-for-trip-packages;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 10275000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "testcases_stepdef.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 104,
+            "name": "User refer the \"BPM_SastaSafar_Web.xlsx\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "BPM_SastaSafar_Web.xlsx",
+                  "offset": 16
+                }
+              ],
+              "location": "testcases_stepdef.Steps.user_refer_the_something(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2614000000,
+              "status": "passed"
+            },
+            "line": 105,
+            "name": "Verify the \"Home page\" with \"Home_Page_Title\" from given sheet \"TestData\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Home page",
+                  "offset": 12
+                },
+                {
+                  "val": "Home_Page_Title",
+                  "offset": 29
+                },
+                {
+                  "val": "TestData",
+                  "offset": 64
+                }
+              ],
+              "location": "testcases_stepdef.Steps.verify_the_something_with_something(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9704000000,
+              "status": "passed"
+            },
+            "line": 106,
+            "name": "User click on the \"PACKAGES tab\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "PACKAGES tab",
+                  "offset": 19
+                }
+              ],
+              "location": "testcases_stepdef.Steps.user_click_on_the_something(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2361000000,
+              "status": "passed"
+            },
+            "line": 107,
+            "name": "Verify the \"packages home page\" with \"packages home page title\" from given sheet \"TestData\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "packages home page",
+                  "offset": 12
+                },
+                {
+                  "val": "packages home page title",
+                  "offset": 38
+                },
+                {
+                  "val": "TestData",
+                  "offset": 82
+                }
+              ],
+              "location": "testcases_stepdef.Steps.verify_the_something_with_something(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ways_of_booking_tickets_for_trip_Packages_"
+          }
+        ]
+      }
+    ],
+    "name": "BPM_SastaSafar_Web",
+    "description": "",
+    "id": "bpm-sastasafar-web",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/BPM_SastaSafar_Web.feature",
+    "tags": []
+  }
+]

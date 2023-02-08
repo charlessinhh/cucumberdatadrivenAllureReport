@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="69.606">
+<testcase classname="BPM_SastaSafar_Web" name="Ways of booking tickets for trip Packages" time="39.703">
+<system-out><![CDATA[Given User refer the "BPM_SastaSafar_Web.xlsx"..............................passed
+When Verify the "Home page" with "Home_Page_Title" from given sheet "TestData".passed
+When User click on the "PACKAGES tab".......................................passed
+Then Verify the "packages home page" with "packages home page title" from given sheet "TestData".passed
+]]></system-out>
+</testcase>
+<testcase classname="BPM_SastaSafar_Web" name="Ways of booking tickets for trip Packages 2" time="29.254">
+<system-out><![CDATA[Given User refer the "BPM_SastaSafar_Web.xlsx"..............................passed
+When Verify the "Home page" with "Home_Page_Title" from given sheet "TestData".passed
+When User click on the "PACKAGES tab".......................................passed
+Then Verify the "packages home page" with "packages home page title" from given sheet "TestData".passed
+]]></system-out>
+</testcase>
+</testsuite>
