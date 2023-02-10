@@ -9,6 +9,8 @@ import java.lang.reflect.Field;
 import java.net.MalformedURLException;
 import java.util.List;
 import java.util.Properties;
+import io.qameta.allure.Allure;
+import io.qameta.allure.Attachment;
 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -86,6 +88,7 @@ public class Hooks extends browsersetup {
 
 							((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.BYTES);
 					scenario.attach(screenshot, "image/png", "report");
+					Allure.addAttachment("failure test", new ByteArrayInputStream(screenshot));
 					reportStatus(Steps.getFeatureName(), scenario.getName(), "Fail");
 					ut.pause(10000);
 
